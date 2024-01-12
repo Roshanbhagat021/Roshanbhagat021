@@ -1,7 +1,7 @@
 ![MasterHead width="800"](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
 <h1 align="center">Hi 👋, I'm Roshan Kumar Bhagat</h1>
 <h3 align="center">Crafting Seamless Web Experiences | Full Stack Web Developer 💻 | Turning Ideas into Interactive Reality.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" >
+<img align="right" alt="Coding" width="400" src="coding.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanbhagat021&label=Profile%20views&color=0e75b6&style=flat" alt="roshanbhagat021" /> </p>
 
