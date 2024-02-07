@@ -1,4 +1,4 @@
- <img align="center" alt="Coding" width="90vw" src="coding.gif" >
+<img align="center" alt="Coding" width="90vw" src="coding.gif" >
 <h1 align="center">Hi 👋, I'm Roshan Kumar Bhagat</h1>
 <h3 align="center">Crafting Seamless Web Experiences | Full Stack Web Developer 💻 | Turning Ideas into Interactive Reality.</h3>
 <img align="right" alt="Coding" width="350" src="212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" >
